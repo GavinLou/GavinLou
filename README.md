@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Gavin who founded WeeMed AI
 <!--
 **GavinLou/GavinLou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
